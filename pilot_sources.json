@@ -1,0 +1,11 @@
+[
+  {"id":"br-a-corinthians","name":"Corinthians","domain":"corinthians.com.br","url":"https://www.corinthians.com.br/noticias","language":"pt"},
+  {"id":"br-a-palmeiras","name":"Palmeiras","domain":"palmeiras.com.br","url":"https://www.palmeiras.com.br/noticias/","language":"pt"},
+  {"id":"br-a-flamengo","name":"Flamengo","domain":"flamengo.com.br","url":"https://www.flamengo.com.br/noticias/futebol","language":"pt"},
+  {"id":"br-a-sao-paulo","name":"São Paulo","domain":"saopaulofc.net","url":"https://www.saopaulofc.net/esporte/futebol-masculino-profissional/","language":"pt"},
+  {"id":"premier-arsenal","name":"Arsenal","domain":"arsenal.com","url":"https://www.arsenal.com/news","language":"en"},
+  {"id":"premier-liverpool","name":"Liverpool","domain":"liverpoolfc.com","url":"https://www.liverpoolfc.com/news?categoryId=first-team&type=news","language":"en"},
+  {"id":"premier-chelsea","name":"Chelsea","domain":"chelseafc.com","url":"https://www.chelseafc.com/en/news","language":"en"},
+  {"id":"premier-manchester-city","name":"Manchester City","domain":"mancity.com","url":"https://www.mancity.com/news","language":"en"},
+  {"id":"selecoes-sa-brasil","name":"Brasil","domain":"cbf.com.br","url":"https://www.cbf.com.br/selecao-brasileira/noticias/selecao-masculina","language":"pt"}
+]
